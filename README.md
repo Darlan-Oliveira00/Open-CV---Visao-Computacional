@@ -1,2 +1,2 @@
-# Open CV - Visao Computacional
+# Visão_Computacional - Open CV
 
